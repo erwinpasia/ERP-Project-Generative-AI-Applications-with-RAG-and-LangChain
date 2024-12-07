@@ -55,7 +55,7 @@ By completing this specialization, participants will:
 
 This program ensures learners are equipped with job-ready skills that align with industry demands for Gen AI engineers, machine learning engineers, data scientists, and AI developers.
 
-## [Certificate Of Competency:](https://www.coursera.org/account/accomplishments/specialization/Q9WBXKL7Z4LF)
+## [Specialization Certificate Of Competency:](https://www.coursera.org/account/accomplishments/specialization/Q9WBXKL7Z4LF)
 
 <p style="text-align:center">
     <a href="https://www.coursera.org/account/accomplishments/specialization/Q9WBXKL7Z4LF" target="_blank">
