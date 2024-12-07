@@ -1,4 +1,4 @@
-# [Generative AI Engineering with LLMs Specialization's Capstone Project](https://www.coursera.org/account/accomplishments/specialization/Q9WBXKL7Z4LF) - COMPLETED!
+# [Generative AI Engineering with LLMs Specialization's Capstone Project](https://www.coursera.org/account/accomplishments/specialization/certificate/Q9WBXKL7Z4LF) - COMPLETED!
 
 The **Generative AI Engineering with LLMs Specialization** equips learners with essential skills to meet the growing demand for Gen AI engineers. The Gen AI market is projected to grow at a rate of 46% annually until 2030 (Source: Statista). This program is tailored for aspiring data scientists, machine learning engineers, and AI developers, focusing on large language models (LLMs), natural language processing (NLP), and other in-demand competencies.
 
@@ -55,10 +55,10 @@ By completing this specialization, participants will:
 
 This program ensures learners are equipped with job-ready skills that align with industry demands for Gen AI engineers, machine learning engineers, data scientists, and AI developers.
 
-## [Specialization Certificate Of Competency:](https://www.coursera.org/account/accomplishments/specialization/Q9WBXKL7Z4LF)
+## [Specialization Certificate Of Competency:](https://www.coursera.org/account/accomplishments/specialization/certificate/Q9WBXKL7Z4LF)
 
 <p style="text-align:center">
-    <a href="https://www.coursera.org/account/accomplishments/specialization/Q9WBXKL7Z4LF" target="_blank">
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/Q9WBXKL7Z4LF" target="_blank">
     <img src="images/IBM_GAILLMS_SC.png" alt="IBM Data Science Professional Certificate"  />
     </a>
 </p>
